@@ -1,6 +1,6 @@
 ﻿/*
 * PROJECT:          AuraTeam - CosmosLostLibrary
-* CONTENT:          FlexibleArray
+* CONTENT:          ToAny
 * PROGRAMMERS:      John Welsh <djlw78@gmail.com>
 *                   
 * Original Owner:	PearOs [Matt]
